@@ -1,6 +1,6 @@
 {
-  "name": "cosma-cosma",
-  "version": "1.0.0",
+  "name": "@commonascom/cosma-cosma",
+  "version": "1.0.1",
   "private": false,
   "scripts": {
     "test": "vue-cli-service test",
@@ -106,5 +106,15 @@
     "dist",
     "src"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/ascomcommon/cosma-cosma/issues"
+  },
+  "homepage": "https://github.com/ascomcommon/cosma-cosma#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
 }
